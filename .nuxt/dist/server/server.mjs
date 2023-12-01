@@ -1,0 +1,1 @@
+export { default } from "file:///Users/acm/Documents/web_development/%20%20nagafc-site/nagafc-site/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
